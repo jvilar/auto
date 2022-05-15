@@ -1,3 +1,9 @@
+Fork of Auto
+============
+
+This is a fork of auto in which the module Control.Auto.Process.Random has
+been eliminated to allow compilation with stack and lts-18.13.
+
 Auto
 ====
 
